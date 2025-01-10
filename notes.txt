@@ -3,4 +3,4 @@ This is a file to track my GitHub learning journey.
 - Practiced committing changes
 
 Contributions
--Joana Mamre Tawiah
+-Emmanuel Ekow Tawiah Panford
