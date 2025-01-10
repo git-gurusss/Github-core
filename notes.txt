@@ -1,3 +1,5 @@
 This is a file to track my GitHub learning journey.
 - Learned how to create repositories
 - Practiced committing changes
+#Contributor
+Emmanuel Ekow Tawiah
