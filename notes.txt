@@ -1,0 +1,4 @@
+This is a file to track my GitHub learning journey.
+I will be adding notes and code snippets as I learn.
+- Learned how to create repositories
+- Practiced committing changes
